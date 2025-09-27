@@ -1,0 +1,8 @@
+/.idea/
+/.eggs/
+/build/
+/dist/
+/build files/
+build.py
+exercise.json
+jsonTest.py
